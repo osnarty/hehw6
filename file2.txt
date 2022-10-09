@@ -1,0 +1,2 @@
+this is a test file for HW6 IOT to copy to file2
+thank you for reading
